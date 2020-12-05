@@ -1,0 +1,7 @@
+git config user.email "74658515+lyapschaff@users.noreply.github.com"
+
+
+The email address is found in "Personal settings"/"Emails".
+
+Instructions:
+https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address#setting-your-commit-email-address-in-git
