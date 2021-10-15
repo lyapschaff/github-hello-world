@@ -1,0 +1,41 @@
+# YAML 1.2
+---
+cff-version: "1.2.0"
+message: "If you use it then go to  https://somesite.com."
+repository-code: "https://github.com"
+license: "GPL-3.0+"
+authors: 
+  - family-names: "A Great Collaboration"
+    given-names: " "
+  - family-names: Aa
+    given-names: "Ff"
+  - family-names: Bb
+    given-names: Bob
+  - family-names: Go
+    given-names: Away
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: Go2
+    given-names: Ah
+  - family-names: Hope
+    given-names: "John"
+preferred-citation:
+  authors:
+    - family-names: "A Collaboration"
+      given-names: " "
+    - family-names: Aa
+      given-names: "Fafa"
+    - family-names: Go
+      given-names: Flor
+      orcid: "https://orcid.org/0000-0000-0000-0000"
+  title: "The great code"
+  url: "https://arxiv.org/abs/0000.0000"
+  year: "2021"
+  license: "CC-BY-SA-4.0"
+  type: article
+title: "Ehnois"
+date-released: 2020-12-30
+keywords:
+  - "simulations"
+  - "systems"
+  - "strong"
+...
