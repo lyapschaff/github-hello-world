@@ -1,3 +1,9 @@
+
+
+-> Partially **outdated**: passwords are deprecated in Github, a personal access token should be used instead
+
+
+
 git config --local user.name "lyapschaff"
 git config --local user.email "74658515+lyapschaff@users.noreply.github.com"
 git config credential.helper store
